@@ -18,7 +18,6 @@ def take_a_number(deli_name,name)
 end
 
 def now_serving(deli_name)
-  puts deli_name.inspect
   puts "There is nobody waiting to be served!" if deli_name.size == 0
   if deli_name.size != 0
     puts "Currently serving " + deli_name[0] + "."
