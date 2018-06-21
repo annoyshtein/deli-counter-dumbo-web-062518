@@ -21,5 +21,3 @@ def now_serving (deli_name)
   #
 end
 
-take_a_number(katz_deli,"Ada") 
-take_a_number(katz_deli,"Bert") 
