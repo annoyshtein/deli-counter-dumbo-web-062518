@@ -14,7 +14,7 @@ end
 
 def take_a_number(deli_name,name)
   deli_name << name
-  puts "Name is " + name
+  puts "Welcome, #{name}!  " + name
 end
 
 def now_serving (deli_name)
