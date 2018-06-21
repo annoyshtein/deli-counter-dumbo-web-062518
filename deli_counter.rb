@@ -18,6 +18,6 @@ def take_a_number(deli_name,name)
 end
 
 def now_serving (deli_name)
-  #
+  take_a_number(katz_deli,"Ada") 
 end
 
