@@ -14,7 +14,7 @@ end
 
 def take_a_number(deli_name,name)
   # deli_name << name
-  # puts deli_name.inspect
+  puts "Deli name is " + deli_name.inspect
 end
 
 def now_serving (deli_name)
