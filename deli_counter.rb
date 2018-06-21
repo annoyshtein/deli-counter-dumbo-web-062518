@@ -24,9 +24,3 @@ def now_serving(deli_name)
     deli_name = deli_name.shift
   end
 end
-
-katz_deli = ["Liv","Emi","Alex"]
-now_serving(katz_deli)
-now_serving(katz_deli)
-now_serving(katz_deli)
-now_serving(katz_deli)
