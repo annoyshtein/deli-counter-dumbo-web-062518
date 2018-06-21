@@ -18,6 +18,6 @@ def take_a_number(deli_name,name)
 end
 
 def now_serving (deli_name)
-  puts "The line is currently empty." if deli_name.size == 0
+  puts "There is nobody waiting to be served!" if deli_name.size == 0
 end
 
