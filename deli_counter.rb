@@ -14,7 +14,6 @@ end
 
 def take_a_number(deli_name,name)
   deli_name << name
-  puts "Deli is " + deli_name.inspect
   puts "Name is " + name
 end
 
