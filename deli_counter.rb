@@ -24,5 +24,5 @@ def now_serving(deli_name)
     puts "Currently serving " + deli_name[0] + "."
 end
 
-katz_deli = ["Liv", "Emi", "Alex"]
+katz_deli = ["Liv","Emi","Alex"]
 now_serving(katz_deli)
