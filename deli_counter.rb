@@ -26,4 +26,4 @@ def now_serving(deli_name)
 end
 
 katz_deli = ["Liv","Emi","Alex"]
-puts katz_deli.inspect
+now_serving(katz_deli)
