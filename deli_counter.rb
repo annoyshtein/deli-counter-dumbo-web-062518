@@ -12,7 +12,7 @@ def line (deli_name)
   end
 end
 
-def take_a_number(arg1,arg2)
+def take_a_number(deli_name,name)
   # deli_name << name
   # puts deli_name.inspect
 end
