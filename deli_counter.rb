@@ -25,4 +25,4 @@ def now_serving(deli_name)
 end
 
 katz_deli = ["Liv","Emi","Alex"]
-now_serving(katz_deli)
+now_serving (katz_deli)
