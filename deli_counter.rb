@@ -12,7 +12,7 @@ def line (deli_name)
   end
 end
 
-def take_a_number (arg1, arg2)
+def take_a_number(arg1,arg2)
   # deli_name << name
   # puts deli_name.inspect
 end
@@ -21,4 +21,4 @@ def now_serving (deli_name)
   #
 end
 
-take_a_number("Ada", "Bert") 
+take_a_number("Ada","Bert") 
